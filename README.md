@@ -94,10 +94,12 @@ If you use this code as part of any published research, please acknowledge the f
 
 ## Contributors
 * [Vinod K. Kurmi][1] (vinodkk@iitk.ac.in)
+* [Vipul Baja][2] (vipulbjj@iitk.ac.in)
 
 
 
 [1]: https://github.com/vinodkkurmi
+[2]: https://github.com/vipulbjj
 
 
 
