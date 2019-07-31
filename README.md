@@ -37,7 +37,7 @@ We have prepared everything for you ;)
 
 ####Clone the repositotry 
 
-``` git clone https://github.com/vinodkkurmi/DiscriminatorDomainAdaptation  ```
+``` git clone https://github.com/DelTA-Lab-IITK/CD3A  ```
 
 #### Dataset prepare
 - Downalod dataset
@@ -53,7 +53,7 @@ mkdir -p /path_to_wherever_you_want/mydataset/val/
 ```
 - creare softlink of dataset
 ```
- cd DiscriminatorDomainAdaptation/
+ cd CD3A/
  ln -sf /path_to_wherever_you_want/mydataset dataset
 ```
  
@@ -63,7 +63,7 @@ mkdir -p /path_to_wherever_you_want/mydataset/val/
 - Download Alexnet pretraine caffe model [Link](https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet)
 
 ``` 
-cd DiscriminatorDomainAdaptation/  
+cd CD3A/  
 ```
 
 ```
